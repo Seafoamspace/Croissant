@@ -1,0 +1,17 @@
+body {
+  background: azure;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(118, 64, 169);
+  text-decoration: none;
+}
