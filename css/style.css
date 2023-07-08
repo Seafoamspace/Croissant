@@ -1,5 +1,7 @@
 body {
   background: azure;
+  max-width: 100%;
+  text-align: center;
 }
 
 h1 {
